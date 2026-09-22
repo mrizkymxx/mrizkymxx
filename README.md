@@ -15,12 +15,16 @@ Orang yang dipanggil kalau printer di kantor macet. Di luar itu, yang saya kerja
 
 Daftar lengkap ada di tab [Repositories](https://github.com/mrizkymxx?tab=repositories). Kode lama saya (tugas kuliah, latihan) juga ada di sana.
 
-## Biasa pakai
+## Stack
 
-React, Next.js, TypeScript, Flutter/Dart, Supabase (PostgreSQL + PostGIS), Node.js, Tailwind, Vercel. Urusan IT support harian: Windows, Linux, jaringan dasar, backup, maintenance.
+[![Tech stack](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,flutter,dart,supabase,nodejs,postgres,prisma,vercel,git&theme=dark)](https://skillicons.dev)
 
 ## Kontak
 
 - Email: mrizkymxx@gmail.com
 - Web: [muhammadrizky.dev](https://muhammadrizky.dev)
 - LinkedIn: [in/mrizkymxx](https://linkedin.com/in/mrizkymxx)
+
+## Aktivitas
+
+![Snake kontribusi](https://raw.githubusercontent.com/mrizkymxx/mrizkymxx/output/github-contribution-grid-snake-dark.svg)
