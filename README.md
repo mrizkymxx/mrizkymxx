@@ -27,4 +27,4 @@ Daftar lengkap ada di tab [Repositories](https://github.com/mrizkymxx?tab=reposi
 
 ## Aktivitas
 
-![Snake kontribusi](https://raw.githubusercontent.com/mrizkymxx/mrizkymxx/output/github-contribution-grid-snake-dark.svg)
+![Kontribusi](https://ghchart.rshah.org/mrizkymxx)
