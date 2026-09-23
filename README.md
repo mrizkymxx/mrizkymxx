@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Muhammad%20Rizky&fontSize=42&fontAlignY=38&desc=AI%20%26%20Software%20Developer%20%7C%20Agentic%20Automation%20Specialist&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%" />
 
   <p align="center">
-    <a href="https://muhammadrizky.dev"><img src="https://img.shields.io/badge/Portfolio-muhammadrizky.dev-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+    <a href="https://mrizkymxx.github.io/muhammadrizkyportofolio2026/"><img src="https://img.shields.io/badge/Portfolio-Interactive_Site-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
     <a href="https://linkedin.com/in/mrizkymxx"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:muhamrizky00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/mrizkymxx"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -141,7 +141,7 @@ flowchart LR
         <img src="https://img.shields.io/badge/Status-Live-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Tech-React%20%7C%20Nginx%20%7C%20Docker-blue?style=flat-square" />
       </p>
-      <p>Production deployments at <a href="https://muhammadrizky.dev">muhammadrizky.dev</a> backed by hardened Linux VPS instances, automated SSL certificates, and Dockerized service containers.</p>
+      <p>Production web services and client deployments backed by hardened Linux VPS instances, automated SSL certificates, and Dockerized service containers.</p>
     </td>
   </tr>
 </table>
