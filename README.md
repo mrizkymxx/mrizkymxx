@@ -1,72 +1,176 @@
-# Muhammad Rizky, S.Kom
-**IT Support Specialist & Systems Administrator**  
-📍 Jepara & Semarang, Jawa Tengah, Indonesia  
-✉️ [mrizkymxx@gmail.com](mailto:mrizkymxx@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/mrizkymxx) • 🌐 [Portofolio Web](https://portfolio-baru-ochre.vercel.app)
+<div align="center">
+
+  <!-- Header Banner / Typing SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Muhammad%20Rizky&fontSize=42&fontAlignY=38&desc=AI%20%26%20Software%20Developer%20%7C%20Agentic%20Automation%20Specialist&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%" />
+
+  <p align="center">
+    <a href="https://muhammadrizky.dev"><img src="https://img.shields.io/badge/Portfolio-muhammadrizky.dev-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+    <a href="https://linkedin.com/in/mrizkymxx"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:muhamrizky00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/mrizkymxx"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=Building+Autonomous+AI+Agents+%26+Hermes+Gateways;Specializing+in+Python%2C+TypeScript+%26+Supabase;Deploying+Headless+Infrastructure+via+Docker+%26+VPS;Vibe+Coding+with+Claude+Code+CLI+%26+Spec-Driven+Dev" alt="Typing SVG" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-### 📌 Ringkasan Profil
-Sarjana Sistem Informasi (IPK 3.56 / 4.00, Cum Laude) dari Universitas Islam Nahdlatul Ulama Jepara dengan 4+ tahun pengalaman teknis lapangan dalam operasional kantor dan lantai pabrik manufaktur. 
+### ⚡ About Me
 
-Berpengalaman langsung dalam troubleshooting hardware PC, perawatan perangkat kasir & industri (printer thermal ESC/POS, barcode scanner), instalasi jaringan kabel LAN & Wi-Fi (Mikrotik, crimping RJ45), serta pembuatan skrip otomasi PowerShell dan query SQL untuk efisiensi bisnis.
+Software Developer & AI Automation Practitioner focusing on **Agentic AI Architectures**, autonomous runtime systems, and full-stack development pipelines:
+
+- 🤖 **Autonomous AI Systems:** Running 24/7 unattended agents (**Hermes Agent**, **OpenClaw**) on headless Linux VPS with automated Telegram gateways and cronjob routines.
+- 💻 **Modern Development:** Vibe coding & spec-driven workflows using **Claude Code CLI**, **Cursor**, and **Model Context Protocol (MCP)** for automated code review & refactoring.
+- 🗄️ **Data & Backend:** Production data pipelines, web scrapers (2,000+ dataset extraction), NLP sentiment classification, and relational databases (**PostgreSQL / Supabase**).
+- 🚀 **DevOps & Infrastructure:** Linux server hardening, Nginx reverse proxy, SSL automated lifecycle, Docker containerization, and GitHub Actions CI/CD.
 
 ---
 
-### 🛠 Keahlian Teknis IT Support
+### 🛠️ Core Tech Stack
 
-| Kategori | Rincian Keahlian & Alat |
+<div align="center">
+
+  #### Languages & Frameworks
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css,tailwind" />
+  </a>
+
+  <br />
+
+  #### AI, Agentic & Development Tooling
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode,postman" />
+  </a>
+
+  <br />
+
+  #### Databases, Storage & Cloud Services
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,nginx" />
+  </a>
+
+</div>
+
+<br />
+
+<details>
+<summary><b>🔍 Detailed Competency Breakdown</b></summary>
+<br />
+
+| Domain | Tools & Technologies |
 | :--- | :--- |
-| **Hardware & Endpoint PC** | Perakitan PC, diagnosa kerusakan RAM/SSD/PSU, audit kesehatan drive (SMART), penggantian pasta termal, instalasi & lisensi Windows 10/11 Pro, penanganan BSOD, Linux Debian headless. |
-| **Jaringan & Konektivitas** | Instalasi kabel LAN Cat5e/Cat6 (crimping T568B), konfigurasi router Mikrotik & Access Point Wi-Fi, pengaturan IP Static & DHCP reservation, pemisahan VLAN (802.1Q), analisa jaringan via Wireshark. |
-| **Perangkat Kasir & Industri (POS)** | Perawatan printer thermal nota kasir (protokol ESC/POS, auto-cutter hex), pembersihan printer spooler macet, setup barcode scanner USB/RS-232, monitor touchscreen kiosk pabrik. |
-| **Otomasi & Database** | Skrip otomasi PowerShell 7+, Windows Batch script, query SQL / PostgreSQL untuk pelaporan stok, pemantauan error via Windows Event Viewer. |
-| **Sistem ERP & Akun Kantor** | Hosting & pemeliharaan server ERP Open Source (Odoo, ERPNext), manajemen Google Workspace, Microsoft 365, remote desktop support (AnyDesk, TeamViewer). |
+| **Agentic AI & LLMs** | Hermes Agent, OpenClaw, Claude Code CLI, Cursor, Prompt Engineering, RAG & Vector Search, MCP Bindings |
+| **Backend & Databases** | Python (FastAPI/Flask), Node.js, PostgreSQL, Supabase, SQLite, RESTful APIs, Spec-Driven Development |
+| **Data & Machine Learning** | Web Scraping Pipelines, Data Cleaning, Indonesian NLP Stemming, Naive Bayes, Random Forest |
+| **Infrastructure & DevOps** | Linux VPS, Docker Containerization, Nginx, Bash Scripting, Cron Orchestration, GitHub Actions |
+
+</details>
 
 ---
 
-### 💼 Riwayat Pengalaman Kerja
+### 🏗️ Architecture: Autonomous Agent & Gateway Pipeline
 
-- **PT Quark Quality Pack (Semarang)** — *Production Planning, Material Control & Systems Support*  
-  *(Mei 2024 — Sekarang)*
-  - Menjaga keandalan operasional seluruh PC kantor, printer jaringan, dan periferal timbangan digital agar tidak mengganggu pergantian shift kerja.
-  - Menangani tiket bantuan teknis harian staf: error OS Windows, hak akses folder share jaringan LAN, dan masalah aplikasi kantor.
-  - Mengembangkan query SQL terstruktur untuk rekonsiliasi data stok material, memangkas waktu kerja manual hingga 35%.
+Visual overview of unattended agent server architecture running on production VPS:
 
-- **PT Bintang Sukses Mulia (Jepara)** — *Head of Procurement & IT Project Lead*  
-  *(Mei 2023 — Mei 2024)*
-  - Merancang dan menerapkan sistem manajemen produksi pabrik karton (**BSMCartonBox**) pada terminal layar sentuh pabrik, menggantikan pencatatan kertas konvensional.
-  - Mengatasi kendala teknis barcode scanner yang freeze akibat fluktuasi voltase dan gelombang elektromagnetik (EMI) mesin corrugator.
-  - Melakukan audit spesifikasi, pengadaan hardware komputer, penggantian router kantor, dan penarikan kabel LAN baru.
+```mermaid
+flowchart LR
+    subgraph Client["📱 User Interface"]
+        TG["Telegram Client"]
+    end
 
-- **Apta Living (Jepara)** — *Purchasing & Systems Coordinator*  
-  *(2022 — 2023)*
-  - Memberikan dukungan teknis on-site untuk komputer kerja staf: instalasi ulang Windows, konfigurasi email, dan pembersihan malware.
-  - Menstabilkan konektivitas jaringan kantor, memperbaiki IP conflict pada router, dan terminasi ulang kabel LAN yang rusak.
+    subgraph VPS["🖥️ Headless Linux VPS (Docker / Systemd)"]
+        GW["Telegram Bot Gateway<br/>(Webhook / Polling)"]
+        ROUTER["LLM Routing Engine<br/>& Prompt Orchestrator"]
+        AGENT["Hermes Agent / OpenClaw<br/>(Autonomous Runtime)"]
+        MCP["Claude Code CLI & MCP<br/>(Tool Bindings & Terminal Execution)"]
+        CRON["Cron Scheduler &<br/>Background Workers"]
+    end
 
-- **Teak Take (Jepara)** — *Logistics & Inventory Systems Officer*  
-  *(Juli 2021 — Juli 2024)*
-  - Mengoperasikan software pelacakan pengiriman kontainer ekspor (**EximPro**).
-  - Merawat PC kantor: upgrade RAM, kloning data dari harddisk mekanis ke SSD, pembersihan fisik debu, dan penanganan printer label barcode.
+    subgraph Data["💾 Storage & DB"]
+        DB[("PostgreSQL /<br/>Supabase")]
+    end
 
----
-
-### 📂 Proyek Sistem Terverifikasi (GitHub)
-
-- **[BSMCartonBox](https://github.com/mrizkymxx/bmscartonbox)** — Sistem monitoring produksi pabrik karton dengan mode penyimpanan lokal (IndexedDB) agar operator mesin tetap bisa input data tanpa hilang saat sinyal Wi-Fi terputus di lantai pabrik.
-- **[Q-Premium Queue](https://github.com/mrizkymxx/q-premium-queue)** — Kiosk antrean mandiri fisik dengan pemotong tiket otomatis dan sinkronisasi ke HP pengunjung. Terhubung langsung ke hardware printer thermal via perintah ESC/POS serial.
-- **[Lapor Desa Rau](https://github.com/mrizkymxx/lapor-desa-rau)** — Platform aduan warga dengan validasi lokasi GPS menggunakan geofencing PostGIS dan kompresi foto otomatis (6MB ke 350KB) untuk jaringan seluler 3G pedesaan.
-- **[IT Automation Toolkit](https://github.com/mrizkymxx)** — Skrip PowerShell 7+ untuk perawatan PC cepat: instalasi software tanpa dialog (silent winget), audit drive SMART, pembersihan printer spooler beku, dan reset cache DNS.
+    TG <-->|Commands & Alerts| GW
+    GW <--> ROUTER
+    ROUTER <--> AGENT
+    AGENT <--> MCP
+    AGENT <--> CRON
+    AGENT <--> DB
+```
 
 ---
 
-### 🎓 Pendidikan Formal
-- **Sarjana Sistem Informasi (S.Kom.)** — Universitas Islam Nahdlatul Ulama Jepara (UNISNU)  
-  *IPK: 3.56 / 4.00 (Predikat: Cum Laude)*  
-  Fokus: Jaringan Komputer, Sistem Operasi, Arsitektur Basis Data (SQL), Analisis Sistem, dan ERP.
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Autonomous AI Agent Server</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active_Production-00f2fe?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Hermes%20Agent%20%7C%20Telegram%20%7C%20MCP-blue?style=flat-square" />
+      </p>
+      <p>Unattended 24/7 autonomous AI agent server with zero GUI overhead. Features custom tool bindings, cron execution, Telegram alerts, and Claude Code CLI integration via MCP.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 NLP E-Commerce Sentiment Engine</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Scikit--Learn%20%7C%20NLP-orange?style=flat-square" />
+      </p>
+      <p>Automated pipeline scraping 2,000+ customer reviews across 20 stores. Implemented Indonesian text preprocessing, stemming, and evaluated Naive Bayes vs Random Forest classifiers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏭 BSM Production Tracking & ERP</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Enterprise_Internal-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Odoo%20%7C%20PostgreSQL%20%7C%20ERPNext-blueviolet?style=flat-square" />
+      </p>
+      <p>Internal monitoring system tracking POs, production workflow, and shipment timelines. Synchronized ERP modules with logistics data to eliminate cross-department discrepancies.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Full-Stack Web & VPS Infra</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20Nginx%20%7C%20Docker-blue?style=flat-square" />
+      </p>
+      <p>Production deployments at <a href="https://muhammadrizky.dev">muhammadrizky.dev</a> backed by hardened Linux VPS instances, automated SSL certificates, and Dockerized service containers.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📬 Kontak Langsung
-- **Email**: [mrizkymxx@gmail.com](mailto:mrizkymxx@gmail.com)
-- **LinkedIn**: [linkedin.com/in/mrizkymxx](https://linkedin.com/in/mrizkymxx)
-- **Portofolio Web**: [https://portfolio-baru-ochre.vercel.app](https://portfolio-baru-ochre.vercel.app)
+### 📈 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrizkymxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizkymxx&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrizkymxx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📜 Certifications & Education
+
+- 🎓 **Bachelor of Information Systems (S.Kom)** — Universitas Islam Nahdlatul Ulama (UNISNU) Jepara *(2021 – 2025/2026)*
+- ☁️ **Dasar Cloud & Gen AI di AWS** — *Dicoding (2026)*
+- 📐 **Spec-Driven Development dengan Kiro** — *Dicoding (2026)*
+- 📊 **Fundamental Pemrosesan Data** — *Dicoding (2026)*
+- 🗄️ **Structured Query Language (SQL)** — *Dicoding (2024)*
+- 🔬 **Data Science Certification** — *Dicoding (2024)*
+- 💼 **Data Scientist Professional** — *Skill Academy (2024)*
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%" />
+</div>
