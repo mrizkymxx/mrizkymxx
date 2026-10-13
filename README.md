@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner / Typing SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Muhammad%20Rizky&fontSize=42&fontAlignY=38&desc=AI%20%26%20Software%20Developer%20%7C%20Agentic%20Automation%20Specialist&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Muhammad%20Rizky&fontSize=42&fontAlignY=38&desc=AI%20%26amp%3B%20Software%20Developer%20%7C%20Agentic%20Automation%20Specialist&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%" />
 
   <p align="center">
     <a href="https://mrizkymxx.github.io/muhammadrizkyportofolio2026/"><img src="https://img.shields.io/badge/Portfolio-Interactive_Site-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
